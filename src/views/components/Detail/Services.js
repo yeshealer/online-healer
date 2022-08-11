@@ -69,7 +69,7 @@ const Services = () => {
                 <div className="bg-[#ffffff15] p-3 rounded-xl">
                     <p className="text-purple-500 font-bold">Special (NFT)</p>
                     <div className="flex items-end justify-center">
-                        <p className="text-center italic text-2xl mr-1 text-purple-500">79$</p>
+                        <p className="text-center italic text-2xl mr-1 text-purple-500">69$</p>
                         <p className="text-gray-400 italic">hour</p>
                     </div>
                     <ul className="list-disc ml-5 mt-2">
