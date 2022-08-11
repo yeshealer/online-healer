@@ -1,0 +1,22 @@
+.swiper-button-prev:after,
+.swiper-button-next:after {
+    opacity: 0.5 !important;
+    font-size: 14px !important;
+    font-weight: bold;
+    background-color: #000000a1;
+    color: white;
+    padding: 5px 8px;
+    border-radius: 5px;
+}
+
+.swiper-button-next {
+    right: 0;
+}
+
+.swiper-button-prev {
+    left: 0;
+}
+
+.vertical-timeline-element-date {
+    padding-bottom: 0 !important;
+}

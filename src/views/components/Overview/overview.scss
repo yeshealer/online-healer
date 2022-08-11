@@ -1,0 +1,21 @@
+.glowIn {
+    span {
+        animation: glow-in 0.5s both;
+    }
+}
+
+@keyframes glow-in {
+    from {
+        opacity: 0;
+    }
+    65% {
+        opacity: 1;
+        text-shadow: 0 0 20px white;
+    }
+    75% {
+        opacity: 1;
+    }
+    to {
+        opacity: 0.9;
+    }
+}
