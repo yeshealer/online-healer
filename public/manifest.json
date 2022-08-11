@@ -1,6 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Adan Cui",
+  "name": "I am an experienced & talented & enthusiast developer interested in building usable, useful, well-
+  constructed Blockchain & NFT projects. Proficient at performing well as working in a group or independently in a
+  fast- paced setting. Deep understanding of distributed ledger, blockchain safety, blockchain design principles, and
+  various blockchain protocols and environments. Interested in continuation of learning and cooperation with excellent
+  people.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +24,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#16c784",
+  "background_color": "lightgrey"
 }
